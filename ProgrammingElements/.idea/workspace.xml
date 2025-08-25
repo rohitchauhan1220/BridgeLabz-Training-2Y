@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="657bd531-9ce0-449b-a412-c2be743f8ea3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Level1/.idea/Programming Elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level1/out/production/Programming Elements/.idea/Programming Elements.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level2/Level2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Level2/src/Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming Elements.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java Fundamental" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFundamental" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Programming Elements.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Level1Q9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/.idea/Programming Elements.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/Level1Q9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programming Elements/demo.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="31ag4ELRcMNsUwkF2ZCzj67vqik" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Q1.executor": "Run",
+    "Application.Q2.executor": "Run",
+    "Application.Q3.executor": "Run",
+    "Application.Q4.executor": "Run",
+    "Application.Q5.executor": "Run",
+    "Application.Q6.executor": "Run",
+    "Application.Q7.executor": "Run",
+    "Application.Q8.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.ide.FileNotInSourceRootChecker.no.check": "true",
+    "git-widget-placeholder": "Java-Fundamental",
+    "jdk.selected.JAVA_MODULE": "22",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Rohit Chauhan/OneDrive/Desktop/BridgeLabAssignmet/Programming Elements/Level2/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Programming Elements" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Programming Elements" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="657bd531-9ce0-449b-a412-c2be743f8ea3" name="Changes" comment="" />
+      <created>1755767404919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1755767404919</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Level2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
